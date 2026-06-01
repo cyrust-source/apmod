@@ -1,0 +1,22 @@
+{
+  "feed": {
+    "entry": [
+      {
+        "content": {
+          "$t": "{\"blog\":[{\"id\":\"8631790112612004568\",\"url\":\"apkmodversi.blogspot.com\",\"auth\":\"Admin\"}]}"
+        },
+        "link": [
+          {"rel": "enclosure", "type": "Indonesia", "href": "http://country.id"},
+          {"rel": "enclosure", "type": "admin@apkmodversi.com", "href": "http://email.id"},
+          {"rel": "enclosure", "type": "Admin ApkModVersi", "href": "http://name.id"},
+          {"rel": "enclosure", "type": "Bypass (Free)", "href": "http://payment.id"},
+          {"rel": "enclosure", "type": "+628000000000", "href": "http://wa.id"},
+          {"rel": "enclosure", "type": "https://apmody.blogspot.com/", "href": "http://xlink.id"},
+          {"rel": "enclosure", "type": "APMODY", "href": "http://xname.id"},
+          {"rel": "enclosure", "type": "86400", "href": "http://xsess.id"},
+          {"rel": "enclosure", "type": "Premium", "href": "http://xtype.id"}
+        ]
+      }
+    ]
+  }
+}
