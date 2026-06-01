@@ -1,20 +1,179 @@
 {
+  "version": "1.0",
+  "encoding": "UTF-8",
   "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-6372953478572614305"
+    },
+    "updated": {
+      "$t": "2026-06-01T12:00:00.000+07:00"
+    },
+    "category": [
+      {
+        "term": "apmody"
+      },
+      {
+        "term": "template"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "License by ARUF"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": ""
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "https://license-aruf.blogspot.com/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "https://www.blogger.com/feeds/6372953478572614305/posts/default?alt=json&max-results=1"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://license-aruf.blogspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Aruf Yudhistiar Fahza"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/09161589297904557823"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "1"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "500"
+    },
     "entry": [
       {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-6372953478572614305.post-8986091712846601713"
+        },
+        "published": {
+          "$t": "2026-06-01T12:00:00.000+07:00"
+        },
+        "updated": {
+          "$t": "2026-06-01T12:00:00.000+07:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "apmody"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "template"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Apk Mod Versi"
+        },
         "content": {
-          "$t": "{\"blog\":[{\"id\":\"8631790112612004568\",\"url\":\"apkmodversi.blogspot.com\",\"auth\":\"Admin\"}]}"
+          "type": "html",
+          "$t": "{\n  \"blog\": [\n    {\n      \"id\": \"8631790112612004568\",\n      \"url\": \"apkmodversi.blogspot.com\",\n      \"auth\": \"Admin\"\n    }\n  ]\n}"
         },
         "link": [
-          {"rel": "enclosure", "type": "Indonesia", "href": "http://country.id"},
-          {"rel": "enclosure", "type": "admin@apkmodversi.com", "href": "http://email.id"},
-          {"rel": "enclosure", "type": "Admin ApkModVersi", "href": "http://name.id"},
-          {"rel": "enclosure", "type": "Bypass (Free)", "href": "http://payment.id"},
-          {"rel": "enclosure", "type": "+628000000000", "href": "http://wa.id"},
-          {"rel": "enclosure", "type": "https://apmody.blogspot.com/", "href": "http://xlink.id"},
-          {"rel": "enclosure", "type": "APMODY", "href": "http://xname.id"},
-          {"rel": "enclosure", "type": "86400", "href": "http://xsess.id"},
-          {"rel": "enclosure", "type": "Premium", "href": "http://xtype.id"}
+          {
+            "href": "http://country.id",
+            "length": "0",
+            "rel": "enclosure",
+            "type": "Indonesia"
+          },
+          {
+            "href": "http://email.id",
+            "length": "0",
+            "rel": "enclosure",
+            "type": "admin@apkmodversi.com"
+          },
+          {
+            "href": "http://name.id",
+            "length": "0",
+            "rel": "enclosure",
+            "type": "Admin Apk Mod Versi"
+          },
+          {
+            "href": "http://payment.id",
+            "length": "0",
+            "rel": "enclosure",
+            "type": "Bypass (Self)"
+          },
+          {
+            "href": "http://wa.id",
+            "length": "0",
+            "rel": "enclosure",
+            "type": "+628000000000"
+          },
+          {
+            "href": "http://xlink.id",
+            "length": "0",
+            "rel": "enclosure",
+            "type": "https://apmody.blogspot.com/"
+          },
+          {
+            "href": "http://xname.id",
+            "length": "0",
+            "rel": "enclosure",
+            "type": "APMODY -  Blogger templates"
+          },
+          {
+            "href": "http://xsess.id",
+            "length": "0",
+            "rel": "enclosure",
+            "type": "86400"
+          },
+          {
+            "href": "http://xtype.id",
+            "length": "0",
+            "rel": "enclosure",
+            "type": "Premium"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/6372953478572614305/posts/default/8986091712846601713"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/6372953478572614305/posts/default/8986091712846601713"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://license-aruf.blogspot.com/2026/06/apkmodversi.html",
+            "title": "Apk Mod Versi"
+          }
         ]
       }
     ]
